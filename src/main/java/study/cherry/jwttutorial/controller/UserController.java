@@ -7,7 +7,6 @@ import study.cherry.jwttutorial.dto.UserDto;
 import study.cherry.jwttutorial.entity.User;
 import study.cherry.jwttutorial.service.UserService;
 
-import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
 
 @RestController
